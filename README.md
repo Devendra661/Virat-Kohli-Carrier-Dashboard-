@@ -31,7 +31,7 @@
 
 6. Screenshot / Demos
    This is what we done .
-Example : [Dashboard Preview](https://github.com/Devendra661/Virat-Kohli-Carrier-Dashboard-/blob/main/Virat%20Kohli%20Carrier%20Dashboard.png).
+Example : [Dashboard Preview](https://raw.githubusercontent.com/Devendra661/Virat-Kohli-Carrier-Dashboard-/main/Virat%20Kohli%20Carrier%20Dashboard.png).
 ---
 
 ⚡ This dashboard is **the ultimate tool** for cricket analysts, fans, and data-driven enthusiasts looking to deep-dive into the **legendary career** of Virat Kohli! 🏆🔥
